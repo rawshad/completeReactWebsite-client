@@ -1,0 +1,23 @@
+.info__card {
+    /* width: 250px; */
+    /* height: 300px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.amount {
+    margin-bottom: 25%;
+    padding: 50px;
+    background: #151718;
+    border-radius: 50%;
+}
+
+.region {
+    background:rgb(25, 202, 105);
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    line-height: 2rem;
+}
