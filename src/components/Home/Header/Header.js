@@ -1,6 +1,6 @@
 import React from 'react';
 import Hero from '../Hero/Hero';
-import Navbar from '../Navbar/Navbar';
+import Navbar from '../../Shared/Navbar/Navbar';
 import Success from '../Success/Success';
 
 const Header = () => {

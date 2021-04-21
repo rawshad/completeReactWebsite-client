@@ -9,22 +9,26 @@ const Services = () => {
         {
             img: ecma,
             name: 'ECMA',
-            description: 'Educational Credential Assessment'
+            description: 'Educational Credential Assessment',
+            application: 'Take Appointment'
         },
         {
             img: Immigration,
             name: 'Immigration',
-            description: 'Immigration To Canada & Australia'
+            description: 'Immigration To Canada & Australia',
+            application: 'Take Appointment'
         },
         {
             img: hotel,
             name: 'Hotel Booking',
-            description: 'Domestic & International Hotel Booking'
+            description: 'Domestic & International Hotel Booking',
+            application: 'Book Hotel'
         },
         {
             img: ticket,
             name: 'Air Ticketing',
-            description: 'Domestic & International Air Ticketing'
+            description: 'Domestic & International Air Ticketing',
+            application: 'Buy Ticket'
         }
     ]
     return (
